@@ -1,1 +1,1 @@
-# pdf2png-privacy
+# pdf2img-privacy
